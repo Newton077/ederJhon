@@ -1,4 +1,4 @@
-# Astro Starter Kit: Blog
+# Eder-404
 
 ```sh
 npm create astro@latest -- --template blog
