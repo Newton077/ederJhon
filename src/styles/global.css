@@ -5,8 +5,8 @@
  */
 
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
+	--accent: #424242;
+	--accent-dark: #d4d4d4;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
@@ -28,6 +28,13 @@
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
+}
+html.dark{
+	background-color:#0d0950;
+	color: #fff;
+}
+.dark .nav-link	a{
+	color: #fff;
 }
 body {
 	font-family: 'Atkinson', sans-serif;
